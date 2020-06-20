@@ -25,6 +25,8 @@
 
 ## Node-Setup App
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cf8298395d46401284f0d34f7bf89995)](https://app.codacy.com/manual/BertBR/node-setup?utm_source=github.com&utm_medium=referral&utm_content=BertBR/node-setup&utm_campaign=Badge_Grade_Settings)
+
 Prepare your environment to develop rich applications with the best code styles and features in Typescript ecosystem.
 
 The goal is try to help begginers developers to understand and set a basic configurations in Node environment using Typescript, Linting tools, TDD and much more.
